@@ -1,10 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## Group 4
 # 
 # ### Problem Definition
-# #### Our goal of this project is to clean and prepare a laptop dataset for further analysis or machine learning.
+# #### The goal of this project is to clean and prepare a laptop dataset for further analysis or machine learning.
 # #### The dataset includes information about laptop specifications such as Brand, Model, RAM, Screen size, Storage type, GPU, and Final Price. 
 # 
 # #### The main objectives are:
@@ -12,8 +8,6 @@
 # - Clean the data by fixing missing values and errors.
 # - Understand how key features (like RAM, Screen size, and Price) are related to help choose important features.
 # - Prepare the data for further tasks, such as predicting laptop prices or grouping similar laptops together.
-
-# In[166]:
 
 
 # Read the data and display them
